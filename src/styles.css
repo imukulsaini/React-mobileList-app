@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#button-list
+{
+  background-color:#fafafb;
+  font-size:large;
+ padding: 1em;
+ margin:1em;
+ width:19%;
+
+}
+.mobileList{
+  font-size: 1em;
+  font-weight: 30px;
+  padding: 1em;
+  margin-bottom: 1em;
+border:1px black solid;
+background-color:#f5eee1;
+
+}
+.mobileList span{
+color :red;
+
+}
